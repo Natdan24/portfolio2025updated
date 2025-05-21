@@ -1,3 +1,5 @@
+Checkout the LIVE DEMO @ https://natdan24.github.io/portfolio2025updated/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
