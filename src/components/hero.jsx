@@ -8,7 +8,7 @@ export default function Hero() {
     >
       {/* — Optional AI-themed background graphic — */}
       <div
-        className="absolute inset-0 bg-[url('3d-render-network-communications-background-with-rainbow-coloured-plexus-design.jpg')] bg-center bg-cover opacity-40 pointer-events-none"
+        className="absolute inset-0 bg-[url('/3d-render-network-communications-background-with-rainbow-coloured-plexus-design.jpg')] bg-center bg-cover opacity-40 pointer-events-none"
         aria-hidden="true"
       />
 
