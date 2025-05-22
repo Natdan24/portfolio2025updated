@@ -55,7 +55,7 @@ export default function Hero() {
               Certifications
             </a>
             <a
-             href="Data-Science-and-Analysis-resume.pdf"
+             href="D"
              download
              className="px-6 py-3 bg-pink-500 hover:bg-pink-600 text-white font-medium rounded shadow transition"
             >
